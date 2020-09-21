@@ -1,5 +1,7 @@
 # CAN-ADF
-[CAN-ADF: The controller area network attack detection framework](https://www.sciencedirect.com/science/article/pii/S0167404820301292)
+[CAN-ADF: The controller area network attack detection framework](https://www.sciencedirect.com/science/article/pii/S0167404820301292).
+
+You can also check out our work on [CANTransfer](https://github.com/shahroztariq/CANTransfer).
 
 ## Citation
 
